@@ -1,8 +1,8 @@
 :root {
-    --bg-color: #f5f7fa;
+    --bg-color: #2b833556;
     --text-color: #333;
     --card-color: #ffffff;
-    --accent: #4a90e2;
+    --accent: #113359;
 }
 
 body.dark {
@@ -14,7 +14,11 @@ body.dark {
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: var(--bg-color);
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: var(--text-color);
 }
 
