@@ -4,6 +4,8 @@
 
 ![Wordly Dictionary Webpage Preview](images/Web.png)
 
+![Wordly Dictionary Webpage Preview](images/Mobile.png)
+
 ## Project Overview
 Wordly is a Single Page Application (SPA) built using **HTML, CSS, and JavaScript**. The application allows users to search for a word and retrieve dictionary information such as pronunciation, definitions, part of speech, example usage, and synonyms. The app dynamically fetches data from an external Dictionary API and updates the page without reloading.
 
@@ -85,7 +87,17 @@ This project followed a structured development process:
 ---
 
 ## Author
-Developed as part of a JavaScript summative lab.
+## Author
+
+## Author
+
+My name is **Ebrahim Ogejo**, and this project was developed as part of a JavaScript summative lab to demonstrate my understanding of modern web development principles. **My Wordbook** represents a practical application of the skills I have acquired, including problem analysis, structured planning, API integration, event-driven programming, and dynamic manipulation of the DOM.
+
+In building this Single Page Application, I focused on creating a solution that is not only functional, but also clean, intuitive, and maintainable. The project reflects my growing ability to translate requirements into a complete, user-friendly web application while adhering to best practices in HTML, CSS, and JavaScript.
+
+**My Wordbook** marks an important milestone in my development journey and serves as a portfolio-ready example of my capability to build interactive, data-driven applications with a strong emphasis on user experience and modern design standards.
+
+
 
 ---
 
