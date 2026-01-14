@@ -2,9 +2,7 @@
 
 ## Application Preview
 
-![My Wordbook Dictionary Webpage Preview](images/Web.png)
-
-![My Wordbook Dictionary Webpage Preview](images/Mobile.png)
+![My Wordbook Dictionary Webpage Preview](images/PageLayout.png)
 
 ## Project Overview
 My Wordbook is a Single Page Application (SPA) built using **HTML, CSS, and JavaScript**. The application allows users to search for a word and retrieve dictionary information such as pronunciation, definitions, part of speech, example usage, and synonyms. The app dynamically fetches data from an external Dictionary API and updates the page without reloading.
