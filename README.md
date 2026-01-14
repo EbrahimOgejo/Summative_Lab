@@ -1,13 +1,13 @@
-# 📘 Wordly – Dictionary Single Page Application (SPA)
+# 📘 My Wordbook – Dictionary Single Page Application (SPA)
 
 ## Application Preview
 
-![Wordly Dictionary Webpage Preview](images/Web.png)
+![My Wordbook Dictionary Webpage Preview](images/Web.png)
 
-![Wordly Dictionary Webpage Preview](images/Mobile.png)
+![My Wordbook Dictionary Webpage Preview](images/Mobile.png)
 
 ## Project Overview
-Wordly is a Single Page Application (SPA) built using **HTML, CSS, and JavaScript**. The application allows users to search for a word and retrieve dictionary information such as pronunciation, definitions, part of speech, example usage, and synonyms. The app dynamically fetches data from an external Dictionary API and updates the page without reloading.
+My Wordbook is a Single Page Application (SPA) built using **HTML, CSS, and JavaScript**. The application allows users to search for a word and retrieve dictionary information such as pronunciation, definitions, part of speech, example usage, and synonyms. The app dynamically fetches data from an external Dictionary API and updates the page without reloading.
 
 This project was developed as a summative lab to demonstrate core JavaScript skills, API integration, DOM manipulation, and modern web development practices.
 
