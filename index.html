@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>My WordBook</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <div class="app">
+        <header>
+            <h1>📘 My WordBook</h1>
+            <p>Your Modern World Dictionary</p>
+            <button id="themeToggle">Toggle Theme</button>
+        </header>
+
+        <main>
+            <form id="searchForm">
+                <input 
+                    type="text" 
+                    id="wordInput" 
+                    placeholder="Search for a word..."
+                    required
+                />
+                <button type="submit">Search</button>
+            </form>
+
+            <section id="results" class="hidden">
+                <h2 id="wordTitle"></h2>
+                <p id="pronunciation"></p>
+                <p id="partOfSpeech"></p>
+                <p id="definition"></p>
+                <p id="example"></p>
+                <p id="synonyms"></p>
+            </section>
+
+            <p id="errorMessage" class="error hidden"></p>
+        </main>
+
+        <footer>
+            <p>© 2026 My WordBook</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
